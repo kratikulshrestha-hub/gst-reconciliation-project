@@ -1,10 +1,10 @@
 # GST-Reconciliation-project
 GST Reconciliation project comparing GSTR-1 and GSTR-3B to identify mismatches.
 
-# GST Reconciliation Project (August 2024) 
+# GST Reconciliation Project (January 2026) 
 
 ## 📋 Project Overview
-This project performs reconciliation between **GSTR-1** (sales register) and **GSTR-3B** (monthly return) for August 2024 using Microsoft Excel.
+This project performs reconciliation between **GSTR-1** (sales register) and **GSTR-3B** (monthly return) for January 2026 using Microsoft Excel.
 
 ## 🎯 Objective
 - Identify mismatches between invoice-wise GSTR-1 data and GSTR-3B summary
