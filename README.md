@@ -1,7 +1,7 @@
 # GST-Reconciliation-project
 GST Reconciliation project comparing GSTR-1 and GSTR-3B to identify mismatches.
 
-# GST Reconciliation Project (August 2024)
+# GST Reconciliation Project (August 2024) 
 
 ## 📋 Project Overview
 This project performs reconciliation between **GSTR-1** (sales register) and **GSTR-3B** (monthly return) for August 2024 using Microsoft Excel.
@@ -52,11 +52,10 @@ This project performs reconciliation between **GSTR-1** (sales register) and **G
 4. Use "Summary" sheet for total figures
 5. Refer "Instructions" sheet for detailed guide
 
-## 📸 Screenshots
-*(Yahan screenshots add karne ka option hai)*
-
 ## 📧 Contact
-Created by [Apna Naam] - feel free to reach out!
+Created by Krati Kulshrestha
+kratikulshrestha2@gmail.com
+- feel free to reach out!
 
 ---
 
